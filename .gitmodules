@@ -1,0 +1,30 @@
+[submodule "neovim/.config/nvim/pack/nvim/start/cmp-nvim-lsp"]
+	path = neovim/.config/nvim/pack/nvim/start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp
+[submodule "neovim/.config/nvim/pack/nvim/start/cmp_luasnip"]
+	path = neovim/.config/nvim/pack/nvim/start/cmp_luasnip
+	url = https://github.com/saadparwaiz1/cmp_luasnip
+[submodule "neovim/.config/nvim/pack/nvim/start/friendly-snippets"]
+	path = neovim/.config/nvim/pack/nvim/start/friendly-snippets
+	url = https://github.com/rafamadriz/friendly-snippets
+[submodule "neovim/.config/nvim/pack/nvim/start/LuaSnip"]
+	path = neovim/.config/nvim/pack/nvim/start/LuaSnip
+	url = https://github.com/L3MON4D3/LuaSnip
+[submodule "neovim/.config/nvim/pack/nvim/start/neorepl.nvim"]
+	path = neovim/.config/nvim/pack/nvim/start/neorepl.nvim
+	url = https://github.com/ii14/neorepl.nvim
+[submodule "neovim/.config/nvim/pack/nvim/start/nvim-cmp"]
+	path = neovim/.config/nvim/pack/nvim/start/nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp
+[submodule "neovim/.config/nvim/pack/nvim/start/nvim-lspconfig"]
+	path = neovim/.config/nvim/pack/nvim/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "neovim/.config/nvim/pack/nvim/start/plenary.nvim"]
+	path = neovim/.config/nvim/pack/nvim/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "neovim/.config/nvim/pack/nvim/start/telescope.nvim"]
+	path = neovim/.config/nvim/pack/nvim/start/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim
+[submodule "neovim/.config/nvim/pack/nvim/start/vim-fugitive"]
+	path = neovim/.config/nvim/pack/nvim/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
