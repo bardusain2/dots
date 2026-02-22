@@ -3,7 +3,7 @@ if status is-interactive
 end
 set -g EDITOR nvim
 set -g VISUAL nvim
-set -g LANG en_US.UTF-8 
+set -g LANG en_GB.UTF-8 
 function freehome --description "Show free space for / and ~"
     # Get filesystem device names
     set root_dev (df / | awk 'NR==2 {print $1}')
