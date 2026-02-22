@@ -31,3 +31,4 @@ function fish_greeting
     w
     freehome
 end
+fish_add_path ~/.cargo/bin

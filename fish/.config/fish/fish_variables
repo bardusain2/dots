@@ -45,3 +45,5 @@ SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
 SETUVAR fish_user_paths:/mnt/c/Program\x20Files/Docker/Docker/resources/bin\x1e/mnt/c
 SETUVAR nvm_default_version:lts
+SETUVAR --export SSH_AUTH_SOCK:/run/user/1000/ssh\x2dagent\x2esocket
+SETUVAR __fish_initialized:4300
